@@ -20,10 +20,7 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 
 ## Tecnologias Utilizadas
 
-- Java
-- Spring Web
-- Banco de Dados Relacional (HSQL)
-- Maven  para gerenciamento de dependências
+Desenvolvimento de aplicação back-end Java com Maven, Spring Boot e API Rest. Integração eficiente com HSQL Database, JPA, migrações via Flyway, e uso de DTOs para manipulação de dados.
 
 ## Documentação da API
 
