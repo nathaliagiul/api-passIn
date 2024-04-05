@@ -1,5 +1,7 @@
 # pass.in
 
+![](https://i.imgur.com/2RuP1Wf.png)
+
 ## Descrição
 
 O pass.in é uma aplicação de **gestão de participantes em eventos presenciais**.
